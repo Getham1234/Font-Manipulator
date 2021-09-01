@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.footer_div{
+    position: fixed;
+    width: 100%;
+    background-color: cadetblue;
+    color: chartreuse;
+    text-align: center;
+    bottom: 0px;
+    font-size: 20px;
+}
+
+#square_dimensions{
+    color: red;
+    font-size: 20px;
+}
+
+#text_input{
+    color: black;
+}
